@@ -1,0 +1,11 @@
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\obj\Debug\fitness2.csproj.AssemblyReference.cache
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\obj\Debug\fitness2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\obj\Debug\fitness2.Properties.Resources.resources
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\obj\Debug\fitness2.csproj.GenerateResource.cache
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\obj\Debug\fitness2.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\bin\Debug\fitness2.exe.config
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\bin\Debug\fitness2.exe
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\bin\Debug\fitness2.pdb
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\obj\Debug\fitness2.Form1.resources
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\obj\Debug\fitness2.exe
+C:\Users\Mr. Mahmoud\Desktop\fitness2\fitness2\obj\Debug\fitness2.pdb
